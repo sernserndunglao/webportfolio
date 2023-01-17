@@ -2,3 +2,20 @@ html {
 	scroll-behavior: smooth;
 
 }
+
+body {
+
+	/*background-image: url(https://images.pexels.com/photos/7134990/pexels-photo-7134990.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);*/
+
+	background-image: linear-gradient(#009EFF, #00E7FF, #00FFF6);
+}
+
+nav {
+
+	background-color: #e3f2fd;
+
+}
+
+.bg_dark {
+	background-color: rgba(0, 0, 0, 0.5);
+}
